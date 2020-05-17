@@ -1,0 +1,61 @@
+body{
+		padding:0;
+		margin:0;
+		background-color:#f4f4f4;
+		font-family:"Baloo Da 2";
+		color:#fff;
+		}
+.topic{
+		background-color:#aa00ff;
+		font-size:25px;
+		padding:25px 15px;
+   word-spacing:wrap;
+   text-align:center;
+   font-weight:bold;
+   color:#fff;
+   border-bottom:2px solid #dbdbdb;
+		}
+.text1{
+		background-color:#aa00ff;
+		font-size:16px;
+		padding:25px 15px;
+		}
+.one{
+		background-color:#5900cc;
+		font-size:16px;
+		padding:25px 15px;
+		margin:25px auto;
+		}
+span{
+		font-size:25px;
+		}
+.myclick{
+		background-colo:lightblue;
+		font-size:16px;
+		color:#fff;
+		width:50%;
+		border-radius:15px;
+		border:2px solid #dbdbdb;
+		}
+.name{
+		text-align:center;
+		}
+button{
+		display:block;
+		width:max-width;
+		margin:auto;
+		background-color:#5900cc;
+		outline:none;
+		padding:8px;
+		border-radius:10px;
+		color:#fff;
+		font-family:"Baloo Da 2";
+		}
+
+
+@media(min-width:768px){
+.whole{
+		width:40%;
+		margin:auto;
+		}		
+	}
